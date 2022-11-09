@@ -5,6 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   overflow-y: hidden;
+  padding: 10px;
 }
 .knockout {
   
@@ -37,4 +38,12 @@ body {
     background-position: 30% 50%
   }
   
+}
+
+.heart {
+  height: 50vh;
+  width: 50vh;
+  background-position: center;
+  background-size: contain;
+  background-image: url(https://64.media.tumblr.com/472aff103e69c27e53206744969964f2/tumblr_mkyzswn11d1qg6rkio1_500.gifv);
 }
