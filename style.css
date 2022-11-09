@@ -169,3 +169,16 @@ body {
 .show {
   display: block;
 }
+
+#loading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  font-family: 'Pacifico', cursive;
+  color: #d88888;
+  font-size: 2rem;
+}
